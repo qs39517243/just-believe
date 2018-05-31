@@ -34,7 +34,6 @@ public class Cycle {
 		return temp;
 	}
 	
-	//
 	//recursion return 1+2+3+……+number-1
 	public static int recursion(int number) {
 		if (number == 0) {
